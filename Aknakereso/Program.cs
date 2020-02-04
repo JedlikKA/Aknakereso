@@ -12,6 +12,7 @@ namespace Aknakereso
         static void Main(string[] args)
         {
             Feltöltés();
+            Console.WriteLine("Update");
             Console.ReadKey();
         }
 
