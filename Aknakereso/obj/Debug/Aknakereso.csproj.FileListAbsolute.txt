@@ -1,0 +1,7 @@
+C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\bin\Debug\Aknakereso.exe.config
+C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\bin\Debug\Aknakereso.exe
+C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\bin\Debug\Aknakereso.pdb
+C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\obj\Debug\Aknakereso.csprojAssemblyReference.cache
+C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\obj\Debug\Aknakereso.csproj.CoreCompileInputs.cache
+C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\obj\Debug\Aknakereso.exe
+C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\obj\Debug\Aknakereso.pdb
