@@ -16,7 +16,6 @@ namespace Aknakereso
             Console.ReadKey();
         }
 
-
         static void Kirajzoló(char[,] pálya)
         {
 
@@ -37,25 +36,30 @@ namespace Aknakereso
         {
             int sor;
             int oszlop;
-            for ( sor = 0; sor < pálya.GetLength(0); sor++)
+            for (sor = 0; sor < pálya.GetLength(0); sor++)
             {
-                for ( oszlop = 0; oszlop < pálya.GetLength(1); oszlop++)
+                for (oszlop = 0; oszlop < pálya.GetLength(1); oszlop++)
                 {
                     pálya[sor, oszlop] = '_';
                 }
             }
-            Random gép = new Random();
-            
-            for (int i = 0; i < 10; i++)
+            Console.WriteLine("Adjon meg oszlop számot.");
+            int oszlopszám = int.Parse(Console.ReadLine());
+            Console.WriteLine("Adjon meg egy sor számot.");
+            int sorszám = int.Parse(Console.ReadLine());
+            if (oszlopszám < 10 && sorszám < 10)
             {
                 do
                 {
-                    sor = gép.Next(0, 10);
-                    oszlop = gép.Next(0, 10);
-                } while (pálya[sor, oszlop] == 'B');
-                pálya[sor, oszlop] = 'B';
+                    sor = sorszám;
+                    oszlop = oszlopszám;
+                } while (pálya[sor, oszlop] == 'X');
+                pálya[sor, oszlop] = 'X';
             }
-
+            else
+            {
+                Console.WriteLine("Túl haladt az értéken.");
+            }
         }
     }
 }

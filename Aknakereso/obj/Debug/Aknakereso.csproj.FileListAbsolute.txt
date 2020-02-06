@@ -5,3 +5,10 @@ C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\obj\Debug\Ak
 C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\obj\Debug\Aknakereso.csproj.CoreCompileInputs.cache
 C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\obj\Debug\Aknakereso.exe
 C:\Users\Körmöndi.Alex.István\Source\Repos\Aknakereso\Aknakereso\obj\Debug\Aknakereso.pdb
+C:\Users\PC\Source\Repos\JedlikKA\Aknakereso\Aknakereso\bin\Debug\Aknakereso.exe.config
+C:\Users\PC\Source\Repos\JedlikKA\Aknakereso\Aknakereso\bin\Debug\Aknakereso.exe
+C:\Users\PC\Source\Repos\JedlikKA\Aknakereso\Aknakereso\bin\Debug\Aknakereso.pdb
+C:\Users\PC\Source\Repos\JedlikKA\Aknakereso\Aknakereso\obj\Debug\Aknakereso.csprojAssemblyReference.cache
+C:\Users\PC\Source\Repos\JedlikKA\Aknakereso\Aknakereso\obj\Debug\Aknakereso.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\JedlikKA\Aknakereso\Aknakereso\obj\Debug\Aknakereso.exe
+C:\Users\PC\Source\Repos\JedlikKA\Aknakereso\Aknakereso\obj\Debug\Aknakereso.pdb
